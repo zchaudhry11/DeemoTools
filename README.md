@@ -23,3 +23,25 @@
 
 <h4>-Localized in English and Japanese-</h4>
 <p>My third-rate tool has also been translated to Third-Rate Japanese™</p>
+
+**Instructions:**
+Download the latest release from the releases section and run DeemoTools.exe from any location. Windows might report it as a suspicious executable due to the nature of the program however it is not malicious. From there, you can adjust the resolution, binds, volume, change the tool language, or make save backups. DeemoTools.exe also creates a small config file that persists the tool's previous settings when you close the application; this file is located in the same directory as the save games and is negligible in size.
+
+**Resolution Guide:**
+1. Launch Deemo
+2. Press Alt + Tab to switch to the tool and select a resolution from the dropdown (only supported Windows resolutions are shown)
+3. Click the Set Resolution button
+4. Press Alt + Tab to go back to the game, everything should be zoomed in or out
+5. Press Alt + Enter to toggle windowed mode and force the game to refresh, everything should be working now
+
+**Soft Keybind Guide:**
+1. Set your desired keybinds for each rhythm lane
+2. Before playing a song, press Alt + Tab to go to the tool and check the "Enable Custom Binds" box
+3. When not playing a song or tabbing out of the game, you should uncheck the same box otherwise the binds will continue to take effect
+
+**Volume Guide:**
+1. Move the sliders to the desired volume values
+2. Press the "Set Volume" button
+3. This edits your save games and adjusts the volume for all songs which have currently been played at least once. If you are in-game, you may need to reload your save file to see the changes.
+
+If anybody from Rayark sees this, tell Alvin and the front-end team I said "wazzup." ~~Also feel free to send me a giant Mandora and other free merchandise since I can't purchase them online.~~
