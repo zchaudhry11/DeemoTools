@@ -1,0 +1,34 @@
+﻿{
+  "LocalizedLanguages": [
+    {
+      "Language": "English",
+      "DeemoToolsWindowTitle": "Deemo Tools",
+      "GameResolutionLabel": "Game Resolution:",
+      "SetResolutionBtn": "Set Resolution",
+      "BackupSavesBtn": "Backup Saves",
+      "KeyBindLabel": "Key Binding (Soft):",
+      "PollDelayLabel": "Bind Poll Delay (lower is better)",
+      "BindCheckbox": "Enable Custom Binds",
+      "VolumeControlsLabel": "Global Music and Note Volume (played songs):",
+      "MusicVolumeLabel": "Music Volume",
+      "NoteVolumeLabel": "Note Volume",
+      "SetVolumeBtn": "Set Volume",
+      "SaveLocationLabel": "Backup location:"
+    },
+    {
+      "Language": "日本語",
+      "DeemoToolsWindowTitle": "ディーモ用具",
+      "GameResolutionLabel": "解像度",
+      "SetResolutionBtn": "解像度の変更",
+      "BackupSavesBtn": "バックアップセーブデータ",
+      "KeyBindLabel": "変更コントロール",
+      "PollDelayLabel": "キーボードディレイ",
+      "BindCheckbox": "カスタムキーバインド",
+      "VolumeControlsLabel": "歌音量（歌完成した）",
+      "MusicVolumeLabel": "BGM音量",
+      "NoteVolumeLabel": "KEY音量",
+      "SetVolumeBtn": "音量の変更",
+      "SaveLocationLabel": "バックアップ場所"
+    }
+  ]
+}
