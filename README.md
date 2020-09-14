@@ -4,6 +4,11 @@
   <br />
   <i>Never Left Without Saying Goodbye</i> <strong>...in Ultrawide HD!</strong>
   <br />
+  <br />
+  <br />
+  <img src="/screenshots/res-compare.png" />
+  <img src="/screenshots/res2.png" />
+  <img src="/screenshots/tool-1.png" />
 </p>
 
 
